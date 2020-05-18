@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Internal Storage Demo</string>
+    <string name="save">Save</string>
+    <string name="user_type">User Type</string>
+    <string name="data">Data</string>
+    <string name="display">Display</string>
+</resources>
